@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "xxawd",
+      "empresa": "awdwd",
+      "email": "d@d.com",
+      "telefono": "65811117",
+      "notas": "daw daw dzx zxc ",
+      "id": 3
+    },
+    {
+      "nombre": "adawawd ",
+      "empresa": "a wda wd",
+      "email": "awd@awd.awdawd",
+      "telefono": "12312312",
+      "notas": "awdawdaw",
+      "id": 4
+    },
+    {
+      "nombre": "add",
+      "empresa": "awdw",
+      "email": "daw@cawd.com",
+      "telefono": "123123",
+      "notas": "awdaw d",
+      "id": 5
+    },
+    {
+      "nombre": "XDDDDDDDDDDDDDD",
+      "empresa": "XDDD",
+      "email": "XDDD@GAMI.COM",
+      "telefono": "123123124",
+      "notas": "Adwawd",
+      "id": 6
+    }
+  ]
+}
